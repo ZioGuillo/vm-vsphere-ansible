@@ -1,3 +1,5 @@
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/espadrine.svg?style=social&label=Follow%20%40zioguillo)](https://twitter.com/zioguillo)
+
 # VM-Vsphere-Ansible
 
 This guide explains how to install Ansible and create a playbook to automate the deployment and configuration of VMs running on VMware vSphere 6.5
