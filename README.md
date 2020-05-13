@@ -41,3 +41,9 @@ The screenshot below shows the VM has been created in vCenter.
 We should also be able to ping the new VM.
 
 <img align="center" src="images/image03.png"></img>
+
+---
+
+This is the list of OS system that support to clone a VM in Vsphere
+
+[List of OS] (https://partnerweb.vmware.com/programs/guestOS/guest-os-customization-matrix.pdf)
