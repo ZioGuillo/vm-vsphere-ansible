@@ -23,7 +23,7 @@ Ansible playbooks are YAML configuratiom files that describe what actions to run
 > The playbook above will create a new VM called web02 and place it on a datastore called iscsi-datastore01. It will be cloned from a template called template-ubuntu-18.04.
 
 ### Run the playbook
-After making the required changes to the **deploy-vms.yml** file, save it, then run the following command to deploy the VM.
+After making the required changes to the [**deploy-vms.yml**](deploy-vms.yml) file, save it, then run the following command to deploy the VM.
 
 `$ansible-playbook deploy-vms.yml`
 
