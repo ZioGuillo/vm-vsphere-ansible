@@ -44,4 +44,5 @@ bin/
 venv
 .idea
 _pycache_
-.html
+*.html
+*.htm
