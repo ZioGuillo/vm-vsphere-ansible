@@ -46,4 +46,4 @@ We should also be able to ping the new VM.
 
 This is the list of OS system that support to clone a VM in Vsphere
 
-[List of OS] (https://partnerweb.vmware.com/programs/guestOS/guest-os-customization-matrix.pdf)
+[List of OS](https://partnerweb.vmware.com/programs/guestOS/guest-os-customization-matrix.pdf)
